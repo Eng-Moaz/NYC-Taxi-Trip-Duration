@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.pickle
+data/raw/
+data/processed/
+data/external/
