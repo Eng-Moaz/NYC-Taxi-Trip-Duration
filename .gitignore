@@ -1,10 +1,11 @@
-# Ignore data files
-data/
 
 # Ignore raw and split data
-data/raw/
+data/
+data/raw/split
 data/processed/
 
 catboost_info/
 
-
+.idea/
+docker/
+app/
