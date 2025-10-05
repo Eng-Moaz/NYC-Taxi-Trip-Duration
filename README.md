@@ -106,16 +106,16 @@ Final Model Catboost (chosen based on validation metrics MAE, RMSE, R²)
 - 
 ### Performance on Validation Set (Sample)
 
- Model                   MAE        RMSE       R²         
-----------------------------------------------------------
- Linear Regression       0.29978    0.41291    0.68268    
- Ridge                   0.30007    0.41420    0.68069    
- Lasso                   0.42823    0.54735    0.44241    
- RandomForest_Default    0.02094    0.04404    0.99639    
- XGBoost                 0.02444    0.03811    0.99730    
- LightGBM                0.02824    0.04418    0.99637    
- CatBoost                0.02081    0.03042    0.99828    
- Final Model (CatBoost)  0.01297  0.01993  0.99918    
+| Model                | MAE     | RMSE    | R²      |
+|----------------------|---------|---------|---------|
+| Linear Regression    | 0.29978 | 0.41291 | 0.68268 |
+| Ridge                | 0.30007 | 0.41420 | 0.68069 |
+| Lasso                | 0.42823 | 0.54735 | 0.44241 |
+| RandomForest_Default | 0.02094 | 0.04404 | 0.99639 |
+| XGBoost              | 0.02444 | 0.03811 | 0.99730 |
+| LightGBM             | 0.02824 | 0.04418 | 0.99637 |
+| CatBoost             | 0.02081 | 0.03042 | 0.99828 |
+| Final Model (CatBoost)| 0.01297 | 0.01993 | 0.99918 |
 
 
 ---
