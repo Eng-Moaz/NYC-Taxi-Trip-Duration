@@ -45,7 +45,7 @@ NYC-Taxi-Trip-Duration
 ```
 ## Dataset
 
-The dataset is not included in this repository due to privacy. You can download the original NYC Taxi Trip Duration dataset from Kaggle [NYC Taxi Trip Duration](httpswww.kaggle.comcompetitionsnyc-taxi-trip-durationoverview)
+The dataset is not included in this repository due to privacy. You can download the original NYC Taxi Trip Duration dataset from Kaggle [NYC Taxi Trip Duration](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview)
 
 #### Once downloaded, place the CSV files into a folder named `dataraw` in the repository, or adjust paths in the notebooks accordingly.
 ---
